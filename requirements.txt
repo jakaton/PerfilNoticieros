@@ -1,0 +1,15 @@
+Escrito por Aarón Ramírez y Ángel Callejas
+Jakatón, 2015. 
+IIMAS, UNAM.
+
+
+ -El proyecto incluye TreeTagger configurado para el español. 
+  Si no funciona, puede intentar reinstalarlo (http://www.cis.uni-muenchen.de/~schmid/tools/TreeTagger/)
+
+ Para ejecutar: 
+  python python PerfilAutor.py <archivo_de_tuits.txt> 
+
+Para graficar datos: 
+ -numpy
+ -matplotlib.pyplot 
+
